@@ -14,4 +14,4 @@ I will announce the date for the hackthon and we will begin the madness then.
 
 #hackathon1999?
 
-The goal is to make the most authentic website from the era of gifs and scrolling text.
+The goal is to make the most authentic website from the era of gifs and scrolling text. 1999.
